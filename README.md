@@ -1,2 +1,5 @@
-📊 Amazon Bestsellers Analysis
-Análise estratégica de dados de produtos best-sellers da Amazon, com foco em insights de mercado, tendências de consumo e performance por categoria.
+## 💻 Projeto
+
+Amazon Bestsellers Analysis é um projeto de análise de dados desenvolvido para estudar os produtos mais vendidos na Amazon. 
+
+
